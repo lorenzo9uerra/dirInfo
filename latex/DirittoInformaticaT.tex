@@ -1,0 +1,76 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{subfiles}
+\usepackage{multirow}
+\usepackage{color}
+\usepackage{titlesec}
+\usepackage{longtable}
+\usepackage{xcolor,colortbl}
+\usepackage[hidelinks]{hyperref}
+\usepackage[italian]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{mdframed}
+
+
+\usepackage[a4paper,width=160mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage{afterpage}
+\usepackage{array,ragged2e}
+\definecolor{LightGray}{gray}{0.9}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+\newlist{tabitem}{itemize}{1}
+\setlist[tabitem]{nosep,
+                  topsep     = 0pt,
+                  partopsep  = 0pt,
+                  leftmargin = *,
+                  label      = \textbullet,
+                  before = \vspace{-1\baselineskip},
+                  after = \vspace{-0.5\baselineskip}}
+
+\hypersetup{
+    linktoc=all,
+    pdfpagemode=FullScreen,
+}
+\definecolor{Gray}{gray}{0.85}
+\definecolor{LightCyan}{rgb}{0.88,1,1}
+
+\begin{document}
+\thispagestyle{empty}
+\begin{titlepage}
+  \null\vfill
+
+  \begin{center}
+
+  {\Huge \textbf{Diritto dell'Informatica T}}
+  \vskip 1.5cm
+
+  {\large A.A. 2020-2021}
+  \end{center}
+
+\vfill
+\vfill
+
+\hfill
+\end{titlepage}
+
+\tableofcontents
+%%%%%%%%%%% Moduli per ogni sezione %%%%%%%%%%%%%%%
+
+\input{./concettiGiuridiciDiBase.tex}
+\input{./ricercaEAnalisiDelleFontiDelDiritto.tex}
+\input{./dirittoDAutore.tex}
+\input{./tutelaGiuridicaBancheDati.tex}
+\input{./contrattiAOggettoInformatico.tex}
+\input{./proprietaIndustriale.tex}
+\input{./protezioneDati.tex}
+\input{./firmaElettronica.tex}
+\input{./commercioElettronico.tex}
+\input{./reatiInformatici.tex}
+\end{document}
