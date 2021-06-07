@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.5)  5 JUN 2021 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.5)  7 JUN 2021 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -652,19 +652,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 ...r interoperabilità?}{22}{subsection.3.15}
+l.44 ...lusivi sul software?}{22}{subsection.3.14}
                                                   % [1] [2] [3] [4] [5])
 \tf@toc=\write4
 \openout4 = `DirittoInformaticaT.toc'.
 
 
 (./concettiGiuridiciDiBase.tex [6]
-Underfull \hbox (badness 10000) in paragraph at lines 21--28
+Underfull \hbox (badness 10000) in paragraph at lines 21--29
 
  []
 
 [7] [8] [9] [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 218--225
+Underfull \hbox (badness 10000) in paragraph at lines 219--226
 
  []
 
@@ -718,46 +718,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--86
 
  []
 
-[30] [31]
-Underfull \hbox (badness 10000) in paragraph at lines 143--153
+[30] [31] [32] [33] [34] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 270--280
 
  []
 
-[32] [33] [34] [35] [36]) (./proprietaIndustriale.tex [37]
+[36]) (./proprietaIndustriale.tex [37]
 Underfull \hbox (badness 10000) in paragraph at lines 19--27
 
  []
 
 [38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 79--83
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
 
  []
 
-[40] [41] [42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 210--228
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
+
+ []
+
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 170--183
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 232--250
 
  []
 
 [44] [45]) (./protezioneDati.tex [46] [47] [48] [49] [50] [51] [52] [53]
-[54] [55] [56] [57] [58] [59] [60]) (./firmaElettronica.tex [61] [62] [63]
-[64] [65]) (./commercioElettronico.tex [66] [67] [68] [69] [70] [71] [72]
-[73]
+[54] [55] [56] [57]
+Underfull \hbox (badness 10000) in paragraph at lines 548--553
+
+ []
+
+[58] [59] [60]) (./firmaElettronica.tex [61] [62] [63] [64] [65] [66])
+(./commercioElettronico.tex [67] [68] [69] [70] [71] [72] [73] [74]
 Underfull \hbox (badness 10000) in paragraph at lines 332--345
 
  []
 
-[74]) (./reatiInformatici.tex [75] [76]) [77] (./DirittoInformaticaT.aux)
+[75]) (./reatiInformatici.tex [76] [77]) [78] (./DirittoInformaticaT.aux)
 Package rerunfilecheck Info: File `DirittoInformaticaT.out' has not changed.
-(rerunfilecheck)             Checksum: 98064146A1B126A1513AE59ABCAB5E47;72611.
+(rerunfilecheck)             Checksum: FB979E096A41700D98442BAEB400409D;73249.
  ) 
 Here is how much of TeX's memory you used:
- 12841 strings out of 478994
- 189117 string characters out of 5864752
- 553550 words of memory out of 5000000
- 29779 multiletter control sequences out of 15000+600000
+ 12855 strings out of 478994
+ 189309 string characters out of 5864752
+ 553867 words of memory out of 5000000
+ 29787 multiletter control sequences out of 15000+600000
  409648 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,12n,89p,1283b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,12n,89p,1165b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -765,10 +779,10 @@ ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public
 sy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-di
 st/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on DirittoInformaticaT.pdf (78 pages, 293286 bytes).
+Output written on DirittoInformaticaT.pdf (79 pages, 295811 bytes).
 PDF statistics:
- 1692 PDF objects out of 1728 (max. 8388607)
- 1589 compressed objects within 16 object streams
- 312 named destinations out of 1000 (max. 500000)
- 1545 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1733 PDF objects out of 2073 (max. 8388607)
+ 1628 compressed objects within 17 object streams
+ 318 named destinations out of 1000 (max. 500000)
+ 1585 words of extra memory for PDF output out of 10000 (max. 10000000)
 

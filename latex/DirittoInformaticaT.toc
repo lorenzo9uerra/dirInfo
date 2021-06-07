@@ -1,7 +1,7 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
 \contentsline {section}{\numberline {1}Concetti giuridici di base}{7}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Che cos’è una norma giuridica? E una sentenza?}{7}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.1}Che cos'è una norma giuridica? E una sentenza?}{7}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}I precedenti giurisprudenziali sono vincolanti in Italia? E nei paesi di common law?}{7}{subsection.1.2}%
 \contentsline {subsection}{\numberline {1.3}Fonti del diritto}{7}{subsection.1.3}%
 \contentsline {subsection}{\numberline {1.4}Differenza tra legge, decreto legge e decreto legislativo}{9}{subsection.1.4}%
@@ -19,6 +19,7 @@
 \contentsline {subsection}{\numberline {1.16}Nullità e annullabilità del contratto}{12}{subsection.1.16}%
 \contentsline {subsection}{\numberline {1.17}Contratti tipici e atipici}{12}{subsection.1.17}%
 \contentsline {subsection}{\numberline {1.18}Responsabilità}{13}{subsection.1.18}%
+\contentsline {subsection}{\numberline {1.19}Domande sulla stipulazione di un contratto}{13}{subsection.1.19}%
 \contentsline {section}{\numberline {2}Ricerca e analisi delle fonti del diritto}{14}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Come procederebbe per risolvere un problema che richiede l'applicazione di norme giuridiche?}{14}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Che cosa è opportuno cercare quando si effettua una ricerca giuridica?}{14}{subsection.2.2}%
@@ -71,48 +72,50 @@
 \contentsline {subsection}{\numberline {5.5}Cosa sono le condizioni generali di contratto?}{30}{subsection.5.5}%
 \contentsline {subsection}{\numberline {5.6}Quali clausole delle condizioni generali di contratto devono essere specificamente approvate per iscritto?}{30}{subsection.5.6}%
 \contentsline {subsection}{\numberline {5.7}Accertamento delle clausole vessatorie}{31}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}Come si può gestire la doppia sottoscrizione nei contratti online?}{31}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.8}Come si può gestire la doppia sottoscrizione nei contratti on line?}{31}{subsection.5.8}%
 \contentsline {subsection}{\numberline {5.9}Contratto concluso mediante moduli o formulari}{31}{subsection.5.9}%
 \contentsline {subsection}{\numberline {5.10}Contratto di licenza d'uso software}{32}{subsection.5.10}%
 \contentsline {subsection}{\numberline {5.11}Garanzie e responsabilità per vizi}{32}{subsection.5.11}%
 \contentsline {subsection}{\numberline {5.12}Licenza a strappo}{32}{subsection.5.12}%
-\contentsline {subsection}{\numberline {5.13}Licenza di software libero / Open Source e licenze Creative Commons Italia}{32}{subsection.5.13}%
-\contentsline {subsection}{\numberline {5.14}Contratto di sviluppo software}{34}{subsection.5.14}%
-\contentsline {subsection}{\numberline {5.15}A quali clausole della licenza bisogna prestare attenzione se si vuole utilizzare una libreria software?}{34}{subsection.5.15}%
-\contentsline {subsection}{\numberline {5.16}Analisi attenta di un contratto}{35}{subsection.5.16}%
-\contentsline {subsubsection}{\numberline {5.16.1}Contratto d'opera e contratto d'opera intellettuale}{35}{subsubsection.5.16.1}%
-\contentsline {subsubsection}{\numberline {5.16.2}Oggetto del contratto}{35}{subsubsection.5.16.2}%
-\contentsline {subsubsection}{\numberline {5.16.3}Esecuzione dell'opera}{35}{subsubsection.5.16.3}%
-\contentsline {subsubsection}{\numberline {5.16.4}Obblighi del committente}{35}{subsubsection.5.16.4}%
-\contentsline {subsubsection}{\numberline {5.16.5}Garanzie e responsabilità}{35}{subsubsection.5.16.5}%
-\contentsline {subsubsection}{\numberline {5.16.6}Responsabilità per danni}{36}{subsubsection.5.16.6}%
-\contentsline {subsubsection}{\numberline {5.16.7}Variazioni richieste}{36}{subsubsection.5.16.7}%
-\contentsline {subsubsection}{\numberline {5.16.8}Variazioni necessarie}{36}{subsubsection.5.16.8}%
-\contentsline {subsubsection}{\numberline {5.16.9}Diritti di proprietà intellettuale}{36}{subsubsection.5.16.9}%
-\contentsline {subsubsection}{\numberline {5.16.10}Recesso delle parti}{37}{subsubsection.5.16.10}%
-\contentsline {subsubsection}{\numberline {5.16.11}Risoluzione del contratto}{37}{subsubsection.5.16.11}%
+\contentsline {subsection}{\numberline {5.13}Contratto di sviluppo software}{32}{subsection.5.13}%
+\contentsline {subsection}{\numberline {5.14}Analisi attenta di un contratto}{33}{subsection.5.14}%
+\contentsline {subsubsection}{\numberline {5.14.1}Contratto d'opera e contratto d'opera intellettuale}{33}{subsubsection.5.14.1}%
+\contentsline {subsubsection}{\numberline {5.14.2}Oggetto del contratto}{33}{subsubsection.5.14.2}%
+\contentsline {subsubsection}{\numberline {5.14.3}Esecuzione dell'opera}{34}{subsubsection.5.14.3}%
+\contentsline {subsubsection}{\numberline {5.14.4}Obblighi del committente}{34}{subsubsection.5.14.4}%
+\contentsline {subsubsection}{\numberline {5.14.5}Garanzie e responsabilità}{34}{subsubsection.5.14.5}%
+\contentsline {subsubsection}{\numberline {5.14.6}Responsabilità per danni}{34}{subsubsection.5.14.6}%
+\contentsline {subsubsection}{\numberline {5.14.7}Variazioni richieste}{35}{subsubsection.5.14.7}%
+\contentsline {subsubsection}{\numberline {5.14.8}Variazioni necessarie}{35}{subsubsection.5.14.8}%
+\contentsline {subsubsection}{\numberline {5.14.9}Diritti di proprietà intellettuale}{35}{subsubsection.5.14.9}%
+\contentsline {subsubsection}{\numberline {5.14.10}Recesso delle parti}{35}{subsubsection.5.14.10}%
+\contentsline {subsubsection}{\numberline {5.14.11}Risoluzione del contratto}{35}{subsubsection.5.14.11}%
+\contentsline {subsection}{\numberline {5.15}A quali clausole della licenza bisogna prestare attenzione se si vuole utilizzare una libreria software?}{36}{subsection.5.15}%
+\contentsline {subsection}{\numberline {5.16}Licenza di software libero / Open Source e licenze Creative Commons Italia}{36}{subsection.5.16}%
 \contentsline {section}{\numberline {6}Proprietà industriale}{38}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Cosa tutela la proprietà industriale?}{38}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Quando sorgono e come si acquisiscono i diritti di proprietà industriale?}{38}{subsection.6.2}%
 \contentsline {subsubsection}{\numberline {6.2.1}I marchi oggetto di registrazione}{38}{subsubsection.6.2.1}%
 \contentsline {subsection}{\numberline {6.3}Quali segni non possono essere registrati come marchi?}{39}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Quali segni non possono essere oggetto di tutela per mancanza di capacità distintiva?}{40}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Chi può registrare un marchio?}{40}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}Quali sono i diritti del titolare di un marchio?}{40}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Quali sono le limitazioni al diritto di marchio?}{41}{subsection.6.7}%
-\contentsline {subsection}{\numberline {6.8}Il trasferimento del marchio}{41}{subsection.6.8}%
-\contentsline {subsection}{\numberline {6.9}Il brevetto per invenzione industriale}{41}{subsection.6.9}%
-\contentsline {subsection}{\numberline {6.10}Il requisito di novità delle invenzioni}{41}{subsection.6.10}%
-\contentsline {subsection}{\numberline {6.11}Il concetto di attività inventiva e industrialità}{42}{subsection.6.11}%
+\contentsline {subsection}{\numberline {6.4}Il requisito di novità}{39}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Quali segni non possono essere oggetto di tutela per mancanza di capacità distintiva?}{40}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Chi può registrare un marchio?}{40}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Quali sono i diritti del titolare di un marchio?}{40}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Quali sono le limitazioni al diritto di marchio?}{41}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Il trasferimento del marchio}{41}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}Il brevetto per invenzione industriale}{41}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}Il requisito di novità delle invenzioni}{42}{subsection.6.11}%
 \contentsline {subsection}{\numberline {6.12}Il concetto di priorità}{42}{subsection.6.12}%
-\contentsline {subsection}{\numberline {6.13}Come si fa domanda di brevetto}{42}{subsection.6.13}%
-\contentsline {subsection}{\numberline {6.14}Quali sono gli effetti della brevettazione?}{43}{subsection.6.14}%
-\contentsline {subsection}{\numberline {6.15}Il brevetto europeo}{43}{subsection.6.15}%
-\contentsline {subsection}{\numberline {6.16}Qual è la durata di un brevetto?}{43}{subsection.6.16}%
-\contentsline {subsection}{\numberline {6.17}In cosa consistono i diritti morali e i diritti patrimoniali?}{44}{subsection.6.17}%
-\contentsline {subsection}{\numberline {6.18}Le invenzioni dei dipendenti}{44}{subsection.6.18}%
-\contentsline {subsection}{\numberline {6.19}Quando/come sorgono i diritti esclusivi su di un'invenzione industriale?}{45}{subsection.6.19}%
-\contentsline {subsection}{\numberline {6.20}La nullità del brevetto}{45}{subsection.6.20}%
+\contentsline {subsection}{\numberline {6.13}Il concetto di attività inventiva e industrialità}{42}{subsection.6.13}%
+\contentsline {subsection}{\numberline {6.14}Come si fa domanda di brevetto}{42}{subsection.6.14}%
+\contentsline {subsection}{\numberline {6.15}Quali sono le rivendicazioni?}{43}{subsection.6.15}%
+\contentsline {subsection}{\numberline {6.16}Quali sono gli effetti della brevettazione?}{43}{subsection.6.16}%
+\contentsline {subsection}{\numberline {6.17}Il brevetto europeo}{44}{subsection.6.17}%
+\contentsline {subsection}{\numberline {6.18}Qual è la durata di un brevetto?}{44}{subsection.6.18}%
+\contentsline {subsection}{\numberline {6.19}In cosa consistono i diritti morali e i diritti patrimoniali?}{44}{subsection.6.19}%
+\contentsline {subsection}{\numberline {6.20}Le invenzioni dei dipendenti}{45}{subsection.6.20}%
+\contentsline {subsection}{\numberline {6.21}Quando/come sorgono i diritti esclusivi su di un'invenzione industriale?}{45}{subsection.6.21}%
+\contentsline {subsection}{\numberline {6.22}La nullità del brevetto}{45}{subsection.6.22}%
 \contentsline {section}{\numberline {7}Protezione dei dati}{47}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Chi ha diritto alla protezione dei dati personali?}{47}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}A quali trattamenti di dati si applica il Regolamento sulla protezione dei dati personali? Ambito di applicazione territoriale – ambito di applicazione materiale}{47}{subsection.7.2}%
@@ -147,49 +150,51 @@
 \contentsline {subsection}{\numberline {7.31}Trasferimenti di dati extra UE: a quali condizioni sono consentiti?}{59}{subsection.7.31}%
 \contentsline {subsection}{\numberline {7.32}A quali condizioni possono essere inviati SMS, e-mail pubblicitarie?}{60}{subsection.7.32}%
 \contentsline {subsection}{\numberline {7.33}Qual è l'attuale disciplina per le telefonate pubblicitarie? Cosa può fare per tutelarsi? Il Registro pubblico delle opposizioni.}{60}{subsection.7.33}%
-\contentsline {subsection}{\numberline {7.34}Se un’impresa ha un sito web (es. di e-commerce), quali sono i principali problemi di privacy che deve affrontare?}{60}{subsection.7.34}%
-\contentsline {subsection}{\numberline {7.35}Cosa si intende per documento? Quali sono le varie tipologie di documento?}{61}{subsection.7.35}%
-\contentsline {subsection}{\numberline {7.36}Cosa si intende per scrittura privata?}{61}{subsection.7.36}%
-\contentsline {subsection}{\numberline {7.37}Cosa si intende per riproduzione meccanica?}{61}{subsection.7.37}%
-\contentsline {subsection}{\numberline {7.38}Cosa si intende per atto pubblico?}{61}{subsection.7.38}%
-\contentsline {subsection}{\numberline {7.39}Cosa si intende per firma elettronica?}{62}{subsection.7.39}%
-\contentsline {subsection}{\numberline {7.40}Che cos’è un certificato qualificato? Quali sono le principali informazioni che contiene?}{62}{subsection.7.40}%
-\contentsline {subsection}{\numberline {7.41}Il funzionamento della firma digitale}{62}{subsection.7.41}%
-\contentsline {subsection}{\numberline {7.42}La firma grafometrica è una firma elettronica avanzata? Perché?}{63}{subsection.7.42}%
-\contentsline {subsection}{\numberline {7.43}Che cosa succede se firmo un documento e il certificato è scaduto?}{63}{subsection.7.43}%
-\contentsline {subsection}{\numberline {7.44}La firma autenticata}{63}{subsection.7.44}%
-\contentsline {subsection}{\numberline {7.45}Definizione di documento informatico. Un documento informatico costituisce “forma scritta”? A quali condizioni?}{63}{subsection.7.45}%
-\contentsline {subsection}{\numberline {7.46}Come faccio ad assicurare la continuità nel tempo degli effetti giuridici del documento informatico?}{64}{subsection.7.46}%
-\contentsline {subsection}{\numberline {7.47}Trasmissione del documento informatico. Quand'è che un documento informatico si considera inviato/pervenuto al destinatario?}{64}{subsection.7.47}%
-\contentsline {subsection}{\numberline {7.48}Che cos'è la posta elettronica certificata? Qual è la sua validità giuridica?}{64}{subsection.7.48}%
-\contentsline {subsection}{\numberline {7.49}Quali sono i principali compiti dei certificatori?}{65}{subsection.7.49}%
-\contentsline {subsection}{\numberline {7.50}Responasbilità dei certificatori}{65}{subsection.7.50}%
-\contentsline {subsection}{\numberline {7.51}Obblighi del titolare del certificato}{65}{subsection.7.51}%
-\contentsline {subsection}{\numberline {7.52}Che cosa succede se un documento informatico contiene macroistruzioni o codice eseguibile?}{65}{subsection.7.52}%
-\contentsline {subsection}{\numberline {7.53}Come devono essere conservate le chiavi? È lecito fare il backup della chiave privata? Se temo di perdere la mia chiave posso chiedere al certificatore di tenerla temporaneamente in deposito?}{65}{subsection.7.53}%
-\contentsline {subsection}{\numberline {7.54}Per quanto tempo resta valido un certificato?}{66}{subsection.7.54}%
-\contentsline {subsection}{\numberline {7.55}Revoca e sospensione del certificato}{66}{subsection.7.55}%
-\contentsline {subsection}{\numberline {7.56}Accesso ai certificati. Tutte le liste di certificati (validi/revocati/sospesi) devono necessariamente essere pubblicate?}{66}{subsection.7.56}%
-\contentsline {section}{\numberline {8}Il commercio elettronico}{67}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Che cosa sono i servizi della società dell’informazione (SSI)?}{67}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}A quale obbligo informativo generale è soggetto chi fornisce beni e servizi via Internet (prestatore di SSI)?}{67}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Informazioni obbligatorie per comunicazioni commerciali.}{67}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Informazioni per la conclusione del contratto.}{68}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Comunicazioni commerciali non sollecitate. Che cosa dice il decreto? Come si collega con la disciplina sulla privacy?}{68}{subsection.8.5}%
-\contentsline {subsection}{\numberline {8.6}Come avviene l’inoltro dell’ordine? La ricevuta del prestatore è necessaria affinché il contratto on-line possa considerarsi concluso? (Risposta: NO)}{68}{subsection.8.6}%
-\contentsline {subsection}{\numberline {8.7}Quando è concluso un contratto on line?}{69}{subsection.8.7}%
-\contentsline {subsection}{\numberline {8.8}Occorre la firma elettronica per concludere un contratto on-line? Sì/no? Perché?}{70}{subsection.8.8}%
-\contentsline {subsection}{\numberline {8.9}Responsabilità dei prestatori di servizi di mere conduit, caching, hosting. Questi prestatori hanno un obbligo generale di sorveglianza? Quali obblighi hanno?}{70}{subsection.8.9}%
-\contentsline {subsection}{\numberline {8.10}Se Lei dovesse creare un sito web di commercio elettronico, quali problemi giuridici si porrebbe?}{71}{subsection.8.10}%
-\contentsline {subsection}{\numberline {8.11}Che cos’è un contratto a distanza secondo il Codice del consumo?}{71}{subsection.8.11}%
-\contentsline {subsection}{\numberline {8.12}Quali sono le principali informazioni obbligatorie che devono essere fornite al consumatore nell’ambito di un contratto a distanza?}{71}{subsection.8.12}%
-\contentsline {subsection}{\numberline {8.13}Conferma scritta.}{72}{subsection.8.13}%
-\contentsline {subsection}{\numberline {8.14}Esecuzione del contratto.}{73}{subsection.8.14}%
-\contentsline {subsection}{\numberline {8.15}Il diritto di recesso. Che cos’è, come si esercita, quali effetti ha. (BENE!!) Può farmi qualche esempio di casi in cui non può essere esercitato il diritto di recesso?}{73}{subsection.8.15}%
-\contentsline {subsection}{\numberline {8.16}Quali sono gli obblighi del consumatore e del professionista in caso di esercizio del diritto di recesso?}{74}{subsection.8.16}%
-\contentsline {subsection}{\numberline {8.17}Qual è il foro competente in caso di controversia tra un professionista e un consumatore? Perché?}{75}{subsection.8.17}%
-\contentsline {section}{\numberline {9}I reati informatici}{76}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Che cos'è un reato informatico?}{76}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Che cosa rischia chi compie un accesso abusivo a un sistema informatico?}{76}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Come viene punita la frode informatica?}{76}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Secondo Lei quali sono dei reati che è importante che l'ingegnere conosca per non commettere errori in maniera inconsapevole?}{77}{subsection.9.4}%
+\contentsline {subsection}{\numberline {7.34}Se un’impresa ha un sito web (es. di e-commerce), quali sono i principali problemi di privacy che deve affrontare?}{61}{subsection.7.34}%
+\contentsline {section}{\numberline {8}Firme elettroniche e documenti informatici}{62}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Cosa si intende per documento? Quali sono le varie tipologie di documento?}{62}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Cosa si intende per scrittura privata?}{62}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Cosa si intende per riproduzione meccanica?}{62}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Cosa si intende per atto pubblico?}{62}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Cosa si intende per firma elettronica?}{62}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Che cos'è un certificato qualificato? Quali sono le principali informazioni che contiene?}{63}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Il funzionamento della firma digitale}{63}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}La firma grafometrica è una firma elettronica avanzata? Perché?}{64}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}Che cosa succede se firmo un documento e il certificato è scaduto?}{64}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}La firma autenticata}{64}{subsection.8.10}%
+\contentsline {subsection}{\numberline {8.11}Definizione di documento informatico. Un documento informatico costituisce “forma scritta”? A quali condizioni?}{64}{subsection.8.11}%
+\contentsline {subsection}{\numberline {8.12}Come faccio ad assicurare la continuità nel tempo degli effetti giuridici del documento informatico?}{65}{subsection.8.12}%
+\contentsline {subsection}{\numberline {8.13}Trasmissione del documento informatico. Quand'è che un documento informatico si considera inviato/pervenuto al destinatario?}{65}{subsection.8.13}%
+\contentsline {subsection}{\numberline {8.14}Che cos'è la posta elettronica certificata? Qual è la sua validità giuridica?}{65}{subsection.8.14}%
+\contentsline {subsection}{\numberline {8.15}Quali sono i principali compiti dei certificatori?}{65}{subsection.8.15}%
+\contentsline {subsection}{\numberline {8.16}Responasbilità dei certificatori}{66}{subsection.8.16}%
+\contentsline {subsection}{\numberline {8.17}Obblighi del titolare del certificato}{66}{subsection.8.17}%
+\contentsline {subsection}{\numberline {8.18}Che cosa succede se un documento informatico contiene macroistruzioni o codice eseguibile?}{66}{subsection.8.18}%
+\contentsline {subsection}{\numberline {8.19}Come devono essere conservate le chiavi? È lecito fare il backup della chiave privata? Se temo di perdere la mia chiave posso chiedere al certificatore di tenerla temporaneamente in deposito?}{66}{subsection.8.19}%
+\contentsline {subsection}{\numberline {8.20}Per quanto tempo resta valido un certificato?}{66}{subsection.8.20}%
+\contentsline {subsection}{\numberline {8.21}Revoca e sospensione del certificato}{67}{subsection.8.21}%
+\contentsline {subsection}{\numberline {8.22}Accesso ai certificati. Tutte le liste di certificati (validi/revocati/sospesi) devono necessariamente essere pubblicate?}{67}{subsection.8.22}%
+\contentsline {section}{\numberline {9}Il commercio elettronico}{68}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Che cosa sono i servizi della società dell'informazione (SSI)?}{68}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}A quale obbligo informativo generale è soggetto chi fornisce beni e servizi via Internet (prestatore di SSI)?}{68}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Informazioni obbligatorie per comunicazioni commerciali.}{68}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Informazioni per la conclusione del contratto.}{69}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Comunicazioni commerciali non sollecitate. Che cosa dice il decreto? Come si collega con la disciplina sulla privacy?}{69}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Come avviene l'inoltro dell'ordine? La ricevuta del prestatore è necessaria affinché il contratto on-line possa considerarsi concluso? (Risposta: NO)}{69}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Quando è concluso un contratto on-line?}{70}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.8}Occorre la firma elettronica per concludere un contratto on-line? Sì/no? Perché?}{71}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}Responsabilità dei prestatori di servizi di mere conduit, caching, hosting. Questi prestatori hanno un obbligo generale di sorveglianza? Quali obblighi hanno?}{71}{subsection.9.9}%
+\contentsline {subsection}{\numberline {9.10}Se Lei dovesse creare un sito web di commercio elettronico, quali problemi giuridici si porrebbe?}{72}{subsection.9.10}%
+\contentsline {subsection}{\numberline {9.11}Che cos'è un contratto a distanza secondo il Codice del consumo?}{72}{subsection.9.11}%
+\contentsline {subsection}{\numberline {9.12}Quali sono le principali informazioni obbligatorie che devono essere fornite al consumatore nell'ambito di un contratto a distanza?}{72}{subsection.9.12}%
+\contentsline {subsection}{\numberline {9.13}Conferma scritta.}{73}{subsection.9.13}%
+\contentsline {subsection}{\numberline {9.14}Esecuzione del contratto.}{74}{subsection.9.14}%
+\contentsline {subsection}{\numberline {9.15}Il diritto di recesso. Che cos'è, come si esercita, quali effetti ha. Può farmi qualche esempio di casi in cui non può essere esercitato il diritto di recesso?}{74}{subsection.9.15}%
+\contentsline {subsection}{\numberline {9.16}Quali sono gli obblighi del consumatore e del professionista in caso di esercizio del diritto di recesso?}{75}{subsection.9.16}%
+\contentsline {subsection}{\numberline {9.17}Qual è il foro competente in caso di controversia tra un professionista e un consumatore? Perché?}{76}{subsection.9.17}%
+\contentsline {section}{\numberline {10}I reati informatici}{77}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Che cosa sono i reati informatici?}{77}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Posso applicare per analogia la legge penale? Perché?}{77}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Quali sono i reati informatici di maggiore interesse per l’ingegnere?}{77}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Accesso abusivo ad un sistema informatico}{77}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Frode informatica}{78}{subsection.10.5}%
